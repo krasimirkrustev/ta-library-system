@@ -1,0 +1,10 @@
+E:\ASP.NET - WebFormsExam\LibrarySystem.Models\bin\Debug\LibrarySystem.Models.dll
+E:\ASP.NET - WebFormsExam\LibrarySystem.Models\bin\Debug\LibrarySystem.Models.pdb
+E:\ASP.NET - WebFormsExam\LibrarySystem.Models\obj\Debug\LibrarySystem.Models.csprojResolveAssemblyReference.cache
+E:\ASP.NET - WebFormsExam\LibrarySystem.Models\obj\Debug\LibrarySystem.Models.dll
+E:\ASP.NET - WebFormsExam\LibrarySystem.Models\obj\Debug\LibrarySystem.Models.pdb
+D:\Working\Telerik Academy Projects\LibrarySystem\LibrarySystem.Models\bin\Debug\LibrarySystem.Models.dll
+D:\Working\Telerik Academy Projects\LibrarySystem\LibrarySystem.Models\bin\Debug\LibrarySystem.Models.pdb
+D:\Working\Telerik Academy Projects\LibrarySystem\LibrarySystem.Models\obj\Debug\LibrarySystem.Models.csprojResolveAssemblyReference.cache
+D:\Working\Telerik Academy Projects\LibrarySystem\LibrarySystem.Models\obj\Debug\LibrarySystem.Models.dll
+D:\Working\Telerik Academy Projects\LibrarySystem\LibrarySystem.Models\obj\Debug\LibrarySystem.Models.pdb
